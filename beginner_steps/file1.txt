@@ -1,0 +1,2 @@
+I am using keyboard to input file1.txt
+Ok, until I press Ctrl + D
