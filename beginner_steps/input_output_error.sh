@@ -2,9 +2,9 @@
 
 # stdout vs stderr
 
-# '>' notation is uesed to redirect stdout
-# '2>' notation is uesed to redirect stderr
-# '&>' notation is uesed to redirect both stdout and stderr
+# '>' notation is used to redirect stdout
+# '2>' notation is used to redirect stderr
+# '&>' notation is used to redirect both stdout and stderr
 
 echo "-- stdout --"
 ls date.sh not-exist > stdout.txt

@@ -68,3 +68,4 @@ Execute
 ## References
 
 - [Bash scripts for beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+- [Parameter Expansions](https://linuxconfig.org/introduction-to-bash-shell-parameter-expansions)
