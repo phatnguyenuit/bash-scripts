@@ -14,7 +14,7 @@ done
 rm -rf items.txt
 
 # Exercise: Print file & folder name length
-echo -e "\nPrint all files and folder of the current folder"
+echo -e "\nPrint all files and folders of the current folder"
 for fileOrFolder in $( ls ); do
     echo "fileOrFolder: $fileOrFolder => name length = $( echo -n $fileOrFolder | wc -c )"
 done
