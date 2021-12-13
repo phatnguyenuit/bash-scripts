@@ -8,7 +8,7 @@ done
 echo -e "bash\nscript\nworld" > items.txt
 
 for item in $( cat items.txt ); do
-    echo "$item => length = $( echo -n $item | wc -c )"
+    echo "$item => length = $( echo -n $item | wc -m )"
 done
 
 rm -rf items.txt
@@ -16,7 +16,7 @@ rm -rf items.txt
 # Exercise: Print file & folder name length
 echo -e "\nPrint all files and folders of the current folder"
 for fileOrFolder in $( ls ); do
-    echo "fileOrFolder: $fileOrFolder => name length = $( echo -n $fileOrFolder | wc -c )"
+    echo "fileOrFolder: $fileOrFolder => length = $( echo -n $fileOrFolder | wc -m )"
 done
 
 echo "---------------------------------------"
