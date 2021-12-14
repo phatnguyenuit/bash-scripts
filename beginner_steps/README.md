@@ -70,3 +70,4 @@ Execute
 - [Bash scripts for beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - [Parameter Expansions](https://linuxconfig.org/introduction-to-bash-shell-parameter-expansions)
 - [Read STDIN](https://www.putorius.net/linux-read-command.html#:~:text=Basic%20Usage%20of%20the%20Read%20Command%201%20Store,of%20Characters.%20...%205%20Input%20with%20Backslash.%20)
+- [Dev Hint - Bash](https://devhints.io/bash)
