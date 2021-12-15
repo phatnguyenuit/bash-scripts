@@ -7,4 +7,4 @@ my_stderr=$(ls not-exits-file  2>&1 > /dev/null)
 
 
 echo "my_stdout => $my_stdout"
-echo "my_stdout => $my_stderr"
+echo "my_stderr => $my_stderr"
